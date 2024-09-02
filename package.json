@@ -1,0 +1,19 @@
+{
+  "name": "tim",
+  "version": "1.0.0",
+  "description": "simple node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carroT200/node_1.git"
+  },
+  "author": "timmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carroT200/node_1/issues"
+  },
+  "homepage": "https://github.com/carroT200/node_1#readme"
+}
